@@ -1,0 +1,16 @@
+Student_ID,Name,Departments,Python_Automation,Network_Security,Hardware_Scripting,Web_Vulnerabilities,Log_Analysis,Average
+101,Rahul,SecOps,0.0,10.0,20.0,30.0,20.0,5.0
+102,sneh,Red_Team,95.0,80.0,88.0,94.0,96.0,90.6
+103,Arjun,NetOps,60.0,65.0,58.0,62.0,70.0,63.0
+104,Priya,DevSecOps,88.0,85.0,91.0,89.0,90.0,88.6
+105,Rohan,Red_Team,45.0,50.0,55.0,40.0,60.0,50.0
+106,Neha,SecOps,78.0,82.0,79.0,85.0,80.0,80.8
+107,Vikram,Red_Team,92.0,90.0,95.0,88.0,94.0,91.8
+108,Kavya,NetOps,68.0,75.0,70.0,65.0,72.0,70.0
+109,Aman,DevSecOps,80.0,85.0,82.0,78.0,85.0,82.0
+110,Simran,Blue_Team,55.0,60.0,62.0,58.0,65.0,60.0
+111,Karan,SecOps,88.0,92.0,85.0,90.0,89.0,88.8
+112,Pooja,Red_Team,75.0,70.0,80.0,72.0,78.0,75.0
+113,Sahil,DevSecOps,96.0,95.0,98.0,92.0,97.0,95.6
+114,Riya,NetOps,65.0,60.0,55.0,68.0,62.0,62.0
+115,shubham,Blue_Team,70.0,90.0,89.0,89.0,798.0,227.2
